@@ -14,7 +14,10 @@ Before running the application, ensure that you have the following packages inst
 You can install these dependencies via pip using the following command:
 
 ```bash
-pip install opencv-python numpy matplotlib tensorflow keras
+pip install numpy
+pip install matplotlib
+pip install tensorflow
+pip install opencv-python
 ```
 ## Running the Application
 
