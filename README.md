@@ -1,17 +1,38 @@
-# Machine-Learning-Image-Detection
+# Machine-Learning Image Detection
 
-Machine-Learning Detection is a Python-based application that utilizes machine learning models to identify objects in images. This project demonstrates the application of the CIFAR-10 and CIFAR-100 datasets for image classification.
+## Overview
+Machine-Learning Image Detection is a Python-based application utilizing machine learning models to identify objects in images. This project leverages the CIFAR-10 and CIFAR-100 datasets for image classification.
 
 ## Prerequisites
+Before you begin, ensure you have met the following requirements:
+* You have a `Windows`, `Linux` or `Mac` machine.
+* You have installed the latest version of `Python`.
+* You have basic understanding of Python and machine learning concepts.
 
-Before running the application, ensure that you have the following packages installed:
-- OpenCV
-- NumPy
-- Matplotlib
-- TensorFlow
-- Keras
+## Installation
 
-You can install these dependencies via pip using the following command:
+### Python and pip Installation
+
+#### Windows
+1. Download Python from [Python's official website](https://www.python.org/downloads/windows/).
+2. Run the installer. Ensure to check “Add Python to PATH” before installation.
+3. Verify the installation by opening Command Prompt and typing `python --version`.
+
+#### Linux (Debian/Ubuntu)
+1. Open Terminal and update the package list: `sudo apt update`.
+2. Install Python: `sudo apt install python3`.
+3. Install pip: `sudo apt install python3-pip`.
+4. Verify Python and pip installation: `python3 --version` and `pip3 --version`.
+
+#### MacOS
+1. Install [Homebrew](https://brew.sh/), a package manager for macOS.
+2. Open Terminal and install Python: `brew install python`.
+3. This will install both Python and pip.
+4. Verify the installation: `python3 --version` and `pip3 --version`.
+
+### Dependency Installation
+
+Run the following commands to install necessary libraries:
 
 ```bash
 pip install numpy
