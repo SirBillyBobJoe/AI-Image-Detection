@@ -7,7 +7,6 @@ Machine-Learning Image Detection is a Python-based application utilizing machine
 Before you begin, ensure you have met the following requirements:
 * You have a `Windows`, `Linux` or `Mac` machine.
 * You have installed the latest version of `Python`.
-* You have basic understanding of Python and machine learning concepts.
 
 ## Installation
 
