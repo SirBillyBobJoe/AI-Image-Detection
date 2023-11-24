@@ -30,7 +30,7 @@ Before you begin, ensure you have met the following requirements:
 3. This will install both Python and pip.
 4. Verify the installation: `python3 --version` and `pip3 --version`.
 
-### Dependency Installation
+### Dependency Installation For Windows
 
 Run the following commands to install necessary libraries:
 
@@ -39,6 +39,17 @@ pip install numpy
 pip install matplotlib
 pip install tensorflow
 pip install opencv-python
+```
+
+### Dependency Installation For MacOS & Linux
+
+Run the following commands to install necessary libraries:
+
+```bash
+pip3 install numpy
+pip3 install matplotlib
+pip3 install tensorflow
+pip3 install opencv-python
 ```
 ## Running the Application
 
