@@ -1,6 +1,6 @@
-# AI-Image-Detection
+# Machine-Learning-Image-Detection
 
-AI Image Detection is a Python-based application that utilizes machine learning models to identify objects in images. This project demonstrates the application of the CIFAR-10 and CIFAR-100 datasets for image classification.
+Machine-Learning Detection is a Python-based application that utilizes machine learning models to identify objects in images. This project demonstrates the application of the CIFAR-10 and CIFAR-100 datasets for image classification.
 
 ## Prerequisites
 
